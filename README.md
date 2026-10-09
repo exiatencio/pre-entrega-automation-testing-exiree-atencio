@@ -72,17 +72,7 @@ requirements.txt
 
 Las capturas se incorporan al reporte HTML y se guardan como PNG. Solo se generan al fallar una prueba con un navegador disponible; si Chrome no puede iniciarse, el error queda en el reporte y los logs. Los PNG están ignorados por Git para evitar subir evidencias de ejecuciones anteriores; se pueden adjuntar manualmente a la entrega si son necesarios. No se necesita `datos/` porque este proyecto no utiliza archivos de datos externos.
 
-## Entrega en GitHub
-
-Crear un repositorio público llamado `pre-entrega-automation-testing-exiree-atencio`. Subir el código, el README, el reporte HTML y el log de la ejecución final. No subir `.venv/` ni cachés.
-
-Realizar commits descriptivos a medida que se trabaja. Compartir el enlace antes del plazo indicado por el curso: 7 días después de la Clase 8.
-
 ## Validación local
 
 Las tres pruebas se ejecutaron contra el sitio real en Chrome y finalizaron correctamente: **3 passed**. El reporte y el log incluidos corresponden a esa ejecución. Las versiones de las dependencias principales están fijadas a las utilizadas en esta validación.
 
-## Referencias
-
-- [Esperas de Selenium](https://www.selenium.dev/documentation/webdriver/waits/)
-- [Reportes y evidencias de pytest-html](https://pytest-html.readthedocs.io/en/latest/user_guide.html)
