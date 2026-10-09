@@ -1,11 +1,11 @@
-14:58:11 INFO conftest: Navegador iniciado: test_login_exitoso
-14:58:12 INFO utils.saucedemo: Login completado; URL: https://www.saucedemo.com/inventory.html
-14:58:14 INFO conftest: Navegador cerrado: test_login_exitoso
-14:58:15 INFO conftest: Navegador iniciado: test_catalogo_y_elementos_de_interfaz
-14:58:16 INFO utils.saucedemo: Login completado; URL: https://www.saucedemo.com/inventory.html
-14:58:17 INFO test_saucedemo: Primer producto: Sauce Labs Backpack | Precio: $29.99
-14:58:20 INFO conftest: Navegador cerrado: test_catalogo_y_elementos_de_interfaz
-14:58:21 INFO conftest: Navegador iniciado: test_agregar_primer_producto_al_carrito
-14:58:22 INFO utils.saucedemo: Login completado; URL: https://www.saucedemo.com/inventory.html
-14:58:22 INFO test_saucedemo: Producto verificado en carrito: Sauce Labs Backpack | $29.99 | Cantidad: 1
-14:58:25 INFO conftest: Navegador cerrado: test_agregar_primer_producto_al_carrito
+15:08:49 INFO conftest: Navegador iniciado: test_login_exitoso
+15:08:50 INFO utils.saucedemo: Login completado; URL: https://www.saucedemo.com/inventory.html
+15:08:54 INFO conftest: Navegador cerrado: test_login_exitoso
+15:08:55 INFO conftest: Navegador iniciado: test_catalogo_y_elementos_de_interfaz
+15:08:56 INFO utils.saucedemo: Login completado; URL: https://www.saucedemo.com/inventory.html
+15:08:56 INFO test_saucedemo: Primer producto: Sauce Labs Backpack | Precio: $29.99
+15:08:58 INFO conftest: Navegador cerrado: test_catalogo_y_elementos_de_interfaz
+15:08:59 INFO conftest: Navegador iniciado: test_agregar_primer_producto_al_carrito
+15:09:00 INFO utils.saucedemo: Login completado; URL: https://www.saucedemo.com/inventory.html
+15:09:00 INFO test_saucedemo: Producto verificado en carrito: Sauce Labs Backpack | $29.99 | Cantidad: 1
+15:09:03 INFO conftest: Navegador cerrado: test_agregar_primer_producto_al_carrito
